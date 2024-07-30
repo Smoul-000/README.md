@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            Назва сайту у вікні браузера 
+           Blue Lock команда Z 
         </title>
     </head>
     <body style="text-align:center">
@@ -9,7 +9,7 @@
             <table>
                 <tr>
                      <td>
-                     <img width="150px"height="160" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic-libria.weekstorm.one%2Fstorage%2Freleases%2Fposters%2F9278%2FnF9lqBjHcDZ4ZEYD__cac4f0c5067870276caa0ef55ba0bc19.jpg&sp=1722341988T983f77d090941239e14d47951fc05fc5c0d056b6275b67d02d0ca7c700803879">
+                     <img width="150px" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.hdrezka.ac%2Fi%2F2022%2F10%2F9%2Fu70087eac2b1dhl82q36l.png&sp=1722361467Tf2e429be16e71a8dee33f8e72a0158e4184f768e963a328e85a20610c5ba0f69">
                  </td>
                  <td>
                  <h1 style="font-size:60px">Блю Лок</h1>
