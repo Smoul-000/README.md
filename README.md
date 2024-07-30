@@ -8,9 +8,13 @@
         <header>
             <table>
                 <tr>
-                    <td>    <img width="150px"height="160" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic-libria.weekstorm.one%2Fstorage%2Freleases%2Fposters%2F9278%2FnF9lqBjHcDZ4ZEYD__cac4f0c5067870276caa0ef55ba0bc19.jpg&sp=1722341988T983f77d090941239e14d47951fc05fc5c0d056b6275b67d02d0ca7c700803879"/> </td>
-                    <td>    <h1 style="font-size:60px">Блю Лок</h1> </td>
-                </tr>
+                     <td>
+                     <img width="150px"height="160" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic-libria.weekstorm.one%2Fstorage%2Freleases%2Fposters%2F9278%2FnF9lqBjHcDZ4ZEYD__cac4f0c5067870276caa0ef55ba0bc19.jpg&sp=1722341988T983f77d090941239e14d47951fc05fc5c0d056b6275b67d02d0ca7c700803879">
+                 </td>
+                 <td>
+                 <h1 style="font-size:60px">Блю Лок</h1>
+                 </td>
+                 </tr>
             </table>
         </header>
          <h2>Вміння персонажів</h2>
